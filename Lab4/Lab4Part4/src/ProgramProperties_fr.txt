@@ -1,0 +1,3 @@
+button1 = Montret tous les Resource
+English = Anglais
+French = Francais
